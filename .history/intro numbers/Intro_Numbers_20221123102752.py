@@ -1,0 +1,1 @@
+hexNumber = "0x"
